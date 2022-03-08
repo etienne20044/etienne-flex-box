@@ -1,0 +1,208 @@
+.container {
+  display: flex;
+  justify-content: space-evenly; 
+  width: 1240px;
+  height: 100px;
+}
+
+.item1 {
+  height: 100px;
+  width: 200px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: -3px; 
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.item2 {
+  height: 100px;
+  width: 200px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: -3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.item3 {
+  height: 100px;
+  width: 200px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: -3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.item4 {
+  height: 100px;
+  width: 200px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: -3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.item5 {
+  height: 100px;
+  width: 250px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: -3px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ItemRubrik {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  position: relative;
+  right: -500px;
+}
+
+.containerhemsida {
+  display: flex; 
+  width: 1240px;
+  height: 400px;
+  margin-top: 50px;
+}
+
+.trophy {
+  width: 350px;
+  height: 350px;
+  display: flex;
+  margin-top: -400px;
+  margin-left: 470px;
+}
+
+.containerrubrik {
+  display: flex;
+  margin-top: 100px;
+  margin-left: -430px;
+  position: absolute;
+}
+
+.container1 {
+  display: flex; 
+  justify-content: space-between;
+  width: 1100px;
+  height: 400px;
+  margin-top: 150px;
+  position: relative;
+  right: 640px;
+}
+
+.item6 {
+  height: 250px;
+  width: 200px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: 20px;
+  position: relative;
+  left: 5px;
+}
+
+.item7 {
+  height: 250px;
+  width: 200px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: 20px;
+  position: relative;
+  left: 10px;
+}
+.item8 {
+  height: 250px; 
+  width: 200px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: 20px; 
+  position: relative;
+  left: 15px;
+}
+
+.item9 {
+  height: 250px;
+  width: 200px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: 20px;
+  position: relative;
+  left: 20px;
+}
+
+.item10 {
+  height: 250px;
+  width: 200px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: 20px;
+  position: relative;
+  left: 25px;
+}
+
+.contactstitle {
+  display: flex;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  margin-top: 140px;
+  right: 550px;
+}
+
+.contacts {
+    display: flex;
+    position: absolute;
+    margin-top: 200px;
+}
+
+.abouttitle {
+  display: flex;
+  height: 100px;
+  width: 100px;
+  position: relative;
+  margin-top: 140px;
+  right: 550px;
+}
+
+.about {  
+ display: flex;
+ position: absolute;
+ margin-top: 200px;
+}
+
+.containerdisplay1 {
+  display: flex;
+  width: 250px;
+  height: 350px;
+  margin-top: -350px;
+  margin-left: 40px;
+}
+
+.item11 {
+  width: 247px;
+  height: 347px;
+  background-color: white;
+  border: 3px solid black;
+}
+
+.containerdisplay2 {
+  display: flex;
+  width: 250px;
+  height: 350px;
+  margin-top: -353px;
+  margin-left: 900px;
+}
+
+.item12 {
+  width: 250px;
+  height: 347px;
+  background-color: white;
+  border: 3px solid black;
+  margin-top: -353px;
+  margin-left: 900px;
+}
+
+.documentationparagraf {  
+  display: flex;
+  position: absolute;
+  margin-top: 200px;
+ }
